@@ -1,0 +1,14 @@
+# generic_a15-user 8.0.0 OPR6.170623.010 eng.jenkin.20200930.035246 test-keys
+- manufacturer: unknown
+- platform: hi3650
+- codename: hi3650
+- flavor: hi3650-user
+- release: 8.0.0
+- id: OPR6.170623.010
+- incremental: eng.jenkin.20200930.035246
+- tags: test-keys
+- fingerprint: Huawei/generic_a15/generic_a15:8.0.0/OPR6.170623.010/jenkin09300352:user/test-keys
+- is_ab: false
+- brand: hi3650
+- branch: generic_a15-user-8.0.0-OPR6.170623.010-eng.jenkin.20200930.035246-test-keys
+- repo: hi3650_hi3650_dump
